@@ -84,7 +84,11 @@
   /* padding: 3rem; */
 
 }
+.left{
+  text-align: left;
+}
 .sec-1 img {
+  z-index: -1;
   width: 80vw;
   height: 70%;
 }
@@ -167,8 +171,8 @@
 }
 .left {
   display: flex;
-  gap: 20px;
+  gap: 10px;
   justify-content: center;
-  align-items: center;
+  align-items: normal;
 }
 
